@@ -2,7 +2,7 @@
 	"id": "obsidian-join-lines",
 	"name": "Join Lines",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
+	"minAppVersion": "1.5.12",
 	"description": "Join multiple lines into one line.",
 	"author": "Dan Strokirk",
 	"isDesktopOnly": false
